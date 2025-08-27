@@ -14,7 +14,7 @@ A simple console-based **train ticket booking system** implemented in C using **
 - **Language:** C
 - **Data Structures:** Singly Linked List (priority-based insertion)
 
-##  How to Run
+## 🏃‍♀️‍➡️ How to Run
 
 ### Using `gcc`
 ```bash
@@ -30,7 +30,7 @@ make
 
 > If `make` is not installed on your system, use the `gcc` instructions above.
 
-## Repository Structure
+## 🧬Repository Structure
 ```
 .
 ├── LICENSE
